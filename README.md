@@ -4,7 +4,7 @@
 
 **[Portfolio](https://mrafat.pages.dev/)** · [Résumé](https://mrafat.pages.dev/resume/) · [Research](https://mrafat.pages.dev/research/) · [Contact](https://mrafat.pages.dev/contact/)
 
-I’m a software engineer based in Cairo, Egypt, with 8+ years of experience building production mobile apps across construction, e-commerce, and education. At WhiteHelmet, I lead iOS development for digital construction, design reusable modules and SDKs, and mentor developers.
+I’m a software engineer based in Cairo, Egypt, with 8+ years of experience building production mobile apps across construction, e-commerce, and education. I lead iOS development for digital construction, design reusable modules and SDKs, and mentor developers.
 
 ## What I work with
 
