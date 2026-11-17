@@ -1,6 +1,6 @@
 # Mohamed Rafat
 
-**Software Engineer · Lead iOS Developer · Software Engineering Researcher**
+**Software Engineer · Lead iOS Engineer · Software Engineering Researcher**
 
 **[Portfolio](https://mrafat.pages.dev/)** · [Résumé](https://mrafat.pages.dev/resume/) · [Research](https://mrafat.pages.dev/research/) · [Contact](https://mrafat.pages.dev/contact/)
 
